@@ -1,0 +1,11 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+class.name	/Users/annacho/burger-app/src/containers/Checkout/ContactData.js	/^  state = {$/;"	property	line:10
+class.email	/Users/annacho/burger-app/src/containers/Checkout/ContactData.js	/^    name: '',$/;"	property	line:11
+class.address	/Users/annacho/burger-app/src/containers/Checkout/ContactData.js	/^    email: '',$/;"	property	line:12
+const.ingredients	/Users/annacho/burger-app/src/containers/Checkout/ContactData.js	/^    const order = {$/;"	property	line:23
+render	/Users/annacho/burger-app/src/containers/Checkout/ContactData.js	/^  render () {$/;"	function	line:47
