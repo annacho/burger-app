@@ -2,9 +2,7 @@
 .Label	/Users/annacho/burger-app/src/components/UI/Input/Input.css	/^.Label {$/;"	function	line:7
 .InputElement	/Users/annacho/burger-app/src/components/UI/Input/Input.css	/^.InputElement {$/;"	function	line:13
 .InputElement:focus	/Users/annacho/burger-app/src/components/UI/Input/Input.css	/^.InputElement:focus {$/;"	function	line:24
-switch	/Users/annacho/burger-app/src/components/UI/Input/Input.js	/^  switch (props.inputtype) {$/;"	function	line:8
-class.name	/Users/annacho/burger-app/src/containers/Checkout/ContactData.js	/^  state = {$/;"	property	line:10
-class.email	/Users/annacho/burger-app/src/containers/Checkout/ContactData.js	/^    name: '',$/;"	property	line:11
-class.address	/Users/annacho/burger-app/src/containers/Checkout/ContactData.js	/^    email: '',$/;"	property	line:12
-const.ingredients	/Users/annacho/burger-app/src/containers/Checkout/ContactData.js	/^    const order = {$/;"	property	line:23
-render	/Users/annacho/burger-app/src/containers/Checkout/ContactData.js	/^  render () {$/;"	function	line:47
+class.orderForm	/Users/annacho/burger-app/src/containers/Checkout/ContactData.js	/^  state = {$/;"	property	line:10
+const.ingredients	/Users/annacho/burger-app/src/containers/Checkout/ContactData.js	/^    const order = {$/;"	property	line:69
+render	/Users/annacho/burger-app/src/containers/Checkout/ContactData.js	/^  render () {$/;"	function	line:83
+switch	/Users/annacho/burger-app/src/components/UI/Input/Input.js	/^  switch (props.elementType) {$/;"	function	line:8
