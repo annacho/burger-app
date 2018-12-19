@@ -4,5 +4,5 @@
 .InputElement:focus	/Users/annacho/burger-app/src/components/UI/Input/Input.css	/^.InputElement:focus {$/;"	function	line:24
 switch	/Users/annacho/burger-app/src/components/UI/Input/Input.js	/^  switch (props.elementType) {$/;"	function	line:8
 class.orderForm	/Users/annacho/burger-app/src/containers/Checkout/ContactData.js	/^  state = {$/;"	property	line:10
-const.ingredients	/Users/annacho/burger-app/src/containers/Checkout/ContactData.js	/^    const order = {$/;"	property	line:69
-render	/Users/annacho/burger-app/src/containers/Checkout/ContactData.js	/^  render () {$/;"	function	line:95
+const.ingredients	/Users/annacho/burger-app/src/containers/Checkout/ContactData.js	/^    const order = {$/;"	property	line:73
+render	/Users/annacho/burger-app/src/containers/Checkout/ContactData.js	/^  render () {$/;"	function	line:100
