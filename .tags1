@@ -4,4 +4,7 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-switch	/Users/annacho/burger-app/src/components/UI/Input/Input.js	/^  switch (props.elementType) {$/;"	function	line:13
+class.orderForm	/Users/annacho/burger-app/src/containers/Checkout/ContactData.js	/^  state = {$/;"	property	line:10
+const.ingredients	/Users/annacho/burger-app/src/containers/Checkout/ContactData.js	/^    const order = {$/;"	property	line:103
+checkValidity	/Users/annacho/burger-app/src/containers/Checkout/ContactData.js	/^  checkValidity(value, rules) {$/;"	function	line:118
+render	/Users/annacho/burger-app/src/containers/Checkout/ContactData.js	/^  render () {$/;"	function	line:158
